@@ -1,0 +1,6 @@
+{
+  "name": "VESLII - Premium-Yet Affordable Essentials",
+  "description": "Curated minimalist luxury watches, fine leather wallets, and skincare serums for your everyday style.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
